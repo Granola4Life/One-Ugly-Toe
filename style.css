@@ -1,10 +1,10 @@
-@import url('https://fonts.googleapis.com/css2?family=Londrina+Solid:wght@300&family=Roboto:wght@100;400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Sketch:wght@700&display=swap');
 
 body {
   margin: 0;
   background-color: ##f4cf10;
   color: #cbab08;
-font-family: 'Script', Lemon Zest Script;
+font-family: 'Cabin Sketch', cursive;
 }
 
 h1 {
